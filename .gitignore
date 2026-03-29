@@ -1,0 +1,13 @@
+
+
+# Ignore compiled files for this ATM project
+*.exe
+*.o
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore IDE folders
+.vscode/
